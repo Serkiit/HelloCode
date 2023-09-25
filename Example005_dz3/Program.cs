@@ -9,6 +9,9 @@ if (remain == 0)
 {
     Console.WritheLine("Число " + num + " четное?");
     Console.WritheLine("Да");
-}     
+} 
+else
+{    
     Console.WritheLine("Число " + num + " четное?");
     Console.WritheLine("Нет");
+}    
